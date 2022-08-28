@@ -41,3 +41,12 @@
     filter: blur(200px);
     background-color: rgb(255, 115, 0); 
 }
+@media screen and (max-width: 768px) {
+    .footer-container{
+        margin-top: -2rem;
+    }
+    .footer{
+        gap: 2rem;
+        height: 10rem;
+    }
+}
