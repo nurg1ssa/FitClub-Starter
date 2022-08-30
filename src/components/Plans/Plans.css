@@ -85,4 +85,10 @@
     .plan:nth-child(2){
         transform: none;
     }
+    .plans-blur-1{
+        top: 45rem;
+    }
+    .plans-blur-2{
+        top: 50rem;
+    }
 }
